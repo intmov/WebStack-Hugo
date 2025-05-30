@@ -11,14 +11,14 @@
       logo: https://ai-bot.cn/wp-content/uploads/2024/05/googel-gemini-app-icon.webp
       url: https://gemini.google.com/
       description: Google出品，Gemini Pro 2.5编码能力强，DeepResearch
+    - title: Grok
+      logo: https://ai-bot.cn/wp-content/uploads/2023/11/xai-icon.png
+      url: https://www.grok.com
+      description: xAI 出品，DeepSearch、DeeperSearch不错，也支持多模态，图片编辑，workspace等等
     - title: Claude
       logo: https://ai-bot.cn/wp-content/uploads/2023/03/anthropic-icon.png
       url: https://claude.ai/
       description: Anthropic出品，Claude 4 编码能力强，国内不好注册
-    - title: 腾讯元宝
-      logo: https://ai-bot.cn/wp-content/uploads/2024/05/tencent-yuanbao-icon.png
-      url: https://yuanbao.tencent.com/
-      description: 腾讯出品，腾讯元宝，里面的DeepSeek不错，接入微信生态
     - title: 豆包
       logo: https://ai-bot.cn/wp-content/uploads/2023/08/doubao-icon.png
       url: https://www.doubao.com/
@@ -27,6 +27,10 @@
       logo: https://ai-bot.cn/wp-content/uploads/2024/04/tongyi-icon.png
       url: https://tongyi.aliyun.com/
       description: 阿里云出品，通义千问 编码能力强，DeepResearch
+    - title: 腾讯元宝
+      logo: https://ai-bot.cn/wp-content/uploads/2024/05/tencent-yuanbao-icon.png
+      url: https://yuanbao.tencent.com/
+      description: 腾讯出品，腾讯元宝，里面的DeepSeek不错，接入微信生态
     - title: Notion AI
       logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/100px-Notion-logo.svg.png
       url: https://www.notion.so/product/ai
@@ -49,6 +53,10 @@
           logo: https://ai-bot.cn/wp-content/uploads/2023/03/github-copilot-icon.png
           url: https://github.com/features/copilot
           description: 微软出品，VS Code内置，免费版有一些额度，多行编辑能力稍差
+        - title: Trae
+          logos: https://ai-bot.cn/wp-content/uploads/2025/02/trae-logo.png
+          url: https://www.trae.com.cn/
+          description: 字节跳动出品，独立AI编辑器，胜在免费，也支持多行编辑了，但是代码补全能力稍弱
         - title: 通义灵码
           logo: https://ai-bot.cn/wp-content/uploads/2024/04/tongyi-lingma-icon.png
           url: https://tongyi.aliyun.com/lingma
