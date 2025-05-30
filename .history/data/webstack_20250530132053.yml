@@ -1,0 +1,57 @@
+---
+
+- taxonomy: 常用推荐
+  icon: far fa-star
+  links:
+    - title: ChatGPT
+      logo: https://ai-bot.cn/wp-content/uploads/2023/03/chatgpt-icon.png
+      url: https://chat.openai.com/
+      description: OpenAI出品，通用，DeepResearch，多模态
+    - title: Gemini
+      logo: https://ai-bot.cn/wp-content/uploads/2024/05/googel-gemini-app-icon.webp
+      url: https://gemini.google.com/
+      description: Google出品，Gemini Pro 2.5编码能力强，DeepResearch
+    - title: Claude
+      logo: https://www.anthropic.com/images/icons/claude.svg
+      url: https://claude.ai/
+      description: Anthropic出品，Claude 4 编码能力强，国内不好注册
+    - title: 腾讯元宝
+      logo: https://www.tencent.com/favicon.ico
+      url: https://yuanbao.tencent.com/
+      description: 腾讯出品，腾讯元宝，里面的DeepSeek不错，接入微信生态
+    - title: 豆包
+      logo: https://www.doubao.com/favicon.ico
+      url: https://www.doubao.com/
+      description: 字节跳动出品，中文理解不错，应用不错，包括语音视频通话、文档阅读、文档翻译等
+    - title: 通义千问
+      logo: https://www.aliyun.com/favicon.ico
+      url: https://tongyi.aliyun.com/
+      description: 阿里云出品，通义千问 编码能力强，DeepResearch
+
+    - title: Perplexity AI
+      logo: https://seeklogo.com/images/P/perplexity-ai-logo-656134AFB1-seeklogo.com.png
+      url: https://www.perplexity.ai/
+      description: AI-powered search and discovery.
+    - title: Notion AI
+      logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/100px-Notion-logo.svg.png
+      url: https://www.notion.so/product/ai
+      description: 笔记软件，免费版本已够用，内置AI功能
+
+- taxonomy: 开发设计
+  icon: fas fa-tools fa-lg
+  list: 
+    - term: 编程工具
+      links:
+        - title: GitHub Copilot
+          logo: https://github.githubassets.com/images/modules/site/features/copilot/promo-logo.png
+          url: https://github.com/features/copilot
+          description: Your AI pair programmer.
+        - title: Tabnine
+          logo: https://www.tabnine.com/img/companyPage/TabnineLogo.png
+          url: https://www.tabnine.com/
+          description: AI assistant for software developers. Code faster with AI code completions.
+        - title: Cursor
+          logo: https://cursor.sh/brand/icon.png
+          url: https://cursor.sh/
+          description: The AI-first Code Editor.
+  

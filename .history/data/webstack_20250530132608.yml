@@ -1,0 +1,54 @@
+---
+
+- taxonomy: 常用推荐
+  icon: far fa-star
+  links:
+    - title: ChatGPT
+      logo: https://ai-bot.cn/wp-content/uploads/2023/03/chatgpt-icon.png
+      url: https://chat.openai.com/
+      description: OpenAI出品，通用，DeepResearch，多模态
+    - title: Gemini
+      logo: https://ai-bot.cn/wp-content/uploads/2024/05/googel-gemini-app-icon.webp
+      url: https://gemini.google.com/
+      description: Google出品，Gemini Pro 2.5编码能力强，DeepResearch
+    - title: Claude
+      logo: https://www.anthropic.com/images/icons/claude.svg
+      url: https://claude.ai/
+      description: Anthropic出品，Claude 4 编码能力强，国内不好注册
+    - title: 腾讯元宝
+      logo: https://ai-bot.cn/wp-content/uploads/2024/05/tencent-yuanbao-icon.png
+      url: https://yuanbao.tencent.com/
+      description: 腾讯出品，腾讯元宝，里面的DeepSeek不错，接入微信生态
+    - title: 豆包
+      logo: https://ai-bot.cn/wp-content/uploads/2023/08/doubao-icon.png
+      url: https://www.doubao.com/
+      description: 字节跳动出品，中文理解不错，应用不错，包括语音视频通话、文档阅读、文档翻译等
+    - title: 通义千问
+      logo: https://ai-bot.cn/wp-content/uploads/2024/04/tongyi-icon.png
+      url: https://tongyi.aliyun.com/
+      description: 阿里云出品，通义千问 编码能力强，DeepResearch
+    - title: Notion AI
+      logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/100px-Notion-logo.svg.png
+      url: https://www.notion.so/product/ai
+      description: 笔记软件，免费版本已够用，内置AI功能
+
+- taxonomy: 开发设计
+  icon: fas fa-tools fa-lg
+  list: 
+    - term: 编程工具
+      links:
+        - title: Cursor
+          logo: https://ai-bot.cn/wp-content/uploads/2024/08/cursor-logo.png
+          url: https://cursor.sh/
+          description: 初创公司，代码编辑器，AI-first，多行编辑功能非常不错（写文档也可以使用），月费20刀，学生限免
+        - title: Windsurf
+          logo: https://ai-bot.cn/wp-content/uploads/2024/11/Windsurf-logo.png
+          url: https://windsurf.dev/
+          description: 被OpenAI收购，代码编辑器，也具有多行编辑功能了，免费版有一定额度
+        - title: GitHub Copilot
+          logo: https://ai-bot.cn/wp-content/uploads/2023/03/github-copilot-icon.png
+          url: https://github.com/features/copilot
+          description: 微软出品，VS Code内置，免费版有一些额度，多行编辑能力稍差
+        - 
+
+  

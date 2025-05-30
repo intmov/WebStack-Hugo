@@ -1,0 +1,56 @@
+---
+
+- taxonomy: 常用推荐
+  icon: far fa-star
+  links:
+    - title: ChatGPT
+      logo: https://seeklogo.com/images/C/chatgpt-logo-0AI2A15758-seeklogo.com.png
+      url: https://chat.openai.com/
+      description: Conversational AI by OpenAI.
+    - title: Gemini
+      logo: https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Gemini_logo.svg
+      url: https://gemini.google.com/
+      description: Google's conversational AI.
+    - title: Claude
+      logo: https://www.anthropic.com/images/icons/claude.svg
+      url: https://claude.ai/
+      description: AI assistant by Anthropic.
+    - title: Perplexity AI
+      logo: https://seeklogo.com/images/P/perplexity-ai-logo-656134AFB1-seeklogo.com.png
+      url: https://www.perplexity.ai/
+      description: AI-powered search and discovery.
+    - title: Midjourney
+      logo: https://static.wixstatic.com/media/750058_391c37717940496396adbb8a78950450~mv2.png/v1/fill/w_242,h_242,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Midjourney_Logomark_1.png
+      url: https://www.midjourney.com/
+      description: AI image generator from text prompts.
+    - title: DALL·E 3
+      logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/100px-OpenAI_Logo.svg.png
+      url: https://openai.com/dall-e-3
+      description: AI image generator by OpenAI.
+    - title: Stable Diffusion
+      logo: https://stablediffusion.com/assets/stable-diffusion-icon.png
+      url: https://stablediffusion.com/
+      description: Open-source text-to-image model.
+    - title: Hugging Face
+      logo: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+      url: https://huggingface.co/
+      description: The AI community building the future.
+    - title: Notion AI
+      logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/100px-Notion-logo.svg.png
+      url: https://www.notion.so/product/ai
+      description: AI features integrated into Notion.
+    - title: GitHub Copilot
+      logo: https://github.githubassets.com/images/modules/site/features/copilot/promo-logo.png
+      url: https://github.com/features/copilot
+      description: AI pair programmer by GitHub.
+
+- taxonomy: 开发设计
+  icon: fas fa-tools fa-lg
+  list: 
+    - term: 编程工具
+      links:
+        
+
+- taxonomy: AI 工具
+  icon: fas fa-brain
+  
