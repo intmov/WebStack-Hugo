@@ -15,10 +15,6 @@
       logo: https://ai-bot.cn/wp-content/uploads/2023/11/xai-icon.png
       url: https://www.grok.com
       description: xAI 出品，DeepSearch、DeeperSearch不错，也支持多模态，图片编辑，workspace等等
-    - title: Claude
-      logo: https://ai-bot.cn/wp-content/uploads/2023/03/anthropic-icon.png
-      url: https://claude.ai/
-      description: Anthropic出品，Claude 4 编码能力强，国内不好注册
     - title: 豆包
       logo: https://ai-bot.cn/wp-content/uploads/2023/08/doubao-icon.png
       url: https://www.doubao.com/
@@ -31,10 +27,36 @@
       logo: https://ai-bot.cn/wp-content/uploads/2024/05/tencent-yuanbao-icon.png
       url: https://yuanbao.tencent.com/
       description: 腾讯出品，腾讯元宝，里面的DeepSeek不错，接入微信生态
+    - title: NotebookLM
+      logo: https://ai-bot.cn/wp-content/uploads/2024/05/googel-gemini-app-icon.webp
+      url: https://notebooklm.com/
+      description: 谷歌推出的AI研究助理，上传文件与链接，基于上传的资源进行总结，标注来源，非常推荐！免费版够用了
+    - title: 秘塔搜索
+      logo: https://ai-bot.cn/wp-content/uploads/2024/06/metaso-ai-search-icon.png
+      url: https://metaso.cn/
+      description: 里面有一个今天学点啥，特别推荐，能够根据上传的文档自动生成讲解PPT和视频，适合学习新的内容
     - title: Notion AI
       logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/100px-Notion-logo.svg.png
       url: https://www.notion.so/product/ai
       description: 笔记软件，免费版本已够用，内置AI功能
+
+- taxonomy: 通用工具
+  icon: fas fa-toolbox fa-lg
+  list:
+    - term: 通用大模型
+      links:
+        - title: Claude
+          logo: https://ai-bot.cn/wp-content/uploads/2023/03/anthropic-icon.png
+          url: https://claude.ai/
+          description: Anthropic出品，Claude 4 编码能力强，国内不好注册
+        - title: Kimi
+          logo: https://ai-bot.cn/wp-content/uploads/2024/05/kimi-ai-logo.png
+          url: https://kimi.com/
+          description: 月之暗面出品，擅长长文本分析与总结
+        - title: 智谱清言
+          logo: https://ai-bot.cn/wp-content/uploads/2025/04/z-ai-logo.png
+          url: https://chat.z.ai/
+          description: 智谱清言出品，有免费API额度
 
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
@@ -54,11 +76,11 @@
           url: https://github.com/features/copilot
           description: 微软出品，VS Code内置，免费版有一些额度，多行编辑能力稍差
         - title: Trae
-          logos: https://ai-bot.cn/wp-content/uploads/2025/02/trae-logo.png
+          logo: https://ai-bot.cn/wp-content/uploads/2025/02/trae-logo.png
           url: https://www.trae.com.cn/
           description: 字节跳动出品，独立AI编辑器，胜在免费，也支持多行编辑了，但是代码补全能力稍弱
         - title: 通义灵码
-          logo: https://ai-bot.cn/wp-content/uploads/2024/04/tongyi-lingma-icon.png
+          logo: https://ai-bot.cn/wp-content/uploads/2023/12/tongyi-lingma-icon-1.png
           url: https://tongyi.aliyun.com/lingma
           description: 阿里云出品，之前是作为IDE的插件，现在也可以独立使用，免费使用
 
