@@ -54,7 +54,7 @@
           url: https://windsurf.dev/
           description: 被OpenAI收购，代码编辑器，也具有多行编辑功能了，免费版有一定额度
         - title: Claude Code
-          logo: https://ai-bot.cn/wp-content/uploads/2024/11/Windsurf-logo.png
+          logo: https://ai-bot.cn/wp-content/uploads/2023/03/anthropic-icon.png
           url: https://www.anthropic.com/claude-code
           description: Anthropic出品，终端IDE，据说很强，把其他工具甩开一条街，没用过，国内不好注册
         - title: GitHub Copilot
