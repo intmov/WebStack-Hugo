@@ -39,6 +39,11 @@
       logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/100px-Notion-logo.svg.png
       url: https://www.notion.so/product/ai
       description: 笔记软件，免费版本已够用，内置AI功能
+    - title: 沉浸式翻译（浏览器插件）
+      logo: https://s.immersivetranslate.com/static/official-static/img/logo.png
+      url: https://immersivetranslate.com/zh-Hans/
+      description: 浏览器插件，沉浸式翻译，逐段翻译网页、PDF、图片等，免费版可用智谱清言GLM的Flash模型，也可以自己添加API key
+
 
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
@@ -87,3 +92,12 @@
           logo: https://ai-bot.cn/wp-content/uploads/2025/04/z-ai-logo.png
           url: https://chat.z.ai/
           description: 智谱清言出品，有免费API额度
+    - term: 其他工具
+      links:
+        - title: OpenRouter
+          url: https://openrouter.ai/
+          description: 提供统一的LLM入口，购买一个Key，可同时使用不同厂商的AI模型
+        - title: Cherry Studio
+          logo: https://ai-bot.cn/wp-content/uploads/2025/02/CherryStudio-logo.png
+          url: https://cherry.studio/
+          description: 支持多服务商集成的AI对话客户端，可自制知识库集成，个人用户免费
