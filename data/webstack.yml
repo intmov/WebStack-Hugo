@@ -38,7 +38,7 @@
     - title: Notion AI
       logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/100px-Notion-logo.svg.png
       url: https://www.notion.so/product/ai
-      description: 笔记软件，免费版本已够用，内置AI功能
+      description: 笔记软件，内置AI功能，基于Block的编辑，强大的Database支持，支持Markdown语法
     - title: 沉浸式翻译（浏览器插件）
       logo: https://s.immersivetranslate.com/static/official-static/img/logo.png
       url: https://immersivetranslate.com/zh-Hans/
