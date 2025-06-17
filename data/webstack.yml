@@ -40,24 +40,6 @@
       url: https://www.notion.so/product/ai
       description: 笔记软件，免费版本已够用，内置AI功能
 
-- taxonomy: 通用工具
-  icon: fas fa-toolbox fa-lg
-  list:
-    - term: 通用大模型
-      links:
-        - title: Claude
-          logo: https://ai-bot.cn/wp-content/uploads/2023/03/anthropic-icon.png
-          url: https://claude.ai/
-          description: Anthropic出品，Claude 4 编码能力强，国内不好注册
-        - title: Kimi
-          logo: https://ai-bot.cn/wp-content/uploads/2024/05/kimi-ai-logo.png
-          url: https://kimi.com/
-          description: 月之暗面出品，擅长长文本分析与总结
-        - title: 智谱清言
-          logo: https://ai-bot.cn/wp-content/uploads/2025/04/z-ai-logo.png
-          url: https://chat.z.ai/
-          description: 智谱清言出品，有免费API额度
-
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
   list: 
@@ -71,6 +53,10 @@
           logo: https://ai-bot.cn/wp-content/uploads/2024/11/Windsurf-logo.png
           url: https://windsurf.dev/
           description: 被OpenAI收购，代码编辑器，也具有多行编辑功能了，免费版有一定额度
+        - title: Claude Code
+          logo: https://ai-bot.cn/wp-content/uploads/2024/11/Windsurf-logo.png
+          url: https://www.anthropic.com/claude-code
+          description: Anthropic出品，终端IDE，据说很强，把其他工具甩开一条街，没用过，国内不好注册
         - title: GitHub Copilot
           logo: https://ai-bot.cn/wp-content/uploads/2023/03/github-copilot-icon.png
           url: https://github.com/features/copilot
@@ -84,5 +70,20 @@
           url: https://tongyi.aliyun.com/lingma
           description: 阿里云出品，之前是作为IDE的插件，现在也可以独立使用，免费使用
 
-
-  
+- taxonomy: 通用工具
+  icon: fas fa-toolbox fa-lg
+  list:
+    - term: 通用大模型（其他）
+      links:
+        - title: Claude
+          logo: https://ai-bot.cn/wp-content/uploads/2023/03/anthropic-icon.png
+          url: https://claude.ai/
+          description: Anthropic出品，Claude 4 编码能力强，国内不好注册
+        - title: Kimi
+          logo: https://ai-bot.cn/wp-content/uploads/2024/05/kimi-ai-logo.png
+          url: https://kimi.com/
+          description: 月之暗面出品，擅长长文本分析与总结
+        - title: 智谱清言
+          logo: https://ai-bot.cn/wp-content/uploads/2025/04/z-ai-logo.png
+          url: https://chat.z.ai/
+          description: 智谱清言出品，有免费API额度
