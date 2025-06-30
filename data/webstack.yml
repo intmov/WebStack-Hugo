@@ -50,6 +50,14 @@
   list: 
     - term: 编程工具
       links:
+        - title: Claude Code
+          logo: https://ai-bot.cn/wp-content/uploads/2023/03/anthropic-icon.png
+          url: https://www.anthropic.com/claude-code
+          description: Anthropic出品，终端IDE，据说很强，把其他工具甩开一条街，没用过，国内不好注册
+        - title: Gemini CLI
+          logo: https://ai-bot.cn/wp-content/uploads/2024/05/googel-gemini-app-icon.webp
+          url: https://gemini.google.com/
+          description: Google出品，高仿Claude Code，基于Gemini模型，免费调用次数1天1000次，完全够用了。
         - title: Cursor
           logo: https://ai-bot.cn/wp-content/uploads/2024/08/cursor-logo.png
           url: https://cursor.sh/
@@ -58,10 +66,6 @@
           logo: https://ai-bot.cn/wp-content/uploads/2024/11/Windsurf-logo.png
           url: https://windsurf.dev/
           description: 被OpenAI收购，代码编辑器，也具有多行编辑功能了，免费版有一定额度
-        - title: Claude Code
-          logo: https://ai-bot.cn/wp-content/uploads/2023/03/anthropic-icon.png
-          url: https://www.anthropic.com/claude-code
-          description: Anthropic出品，终端IDE，据说很强，把其他工具甩开一条街，没用过，国内不好注册
         - title: GitHub Copilot
           logo: https://ai-bot.cn/wp-content/uploads/2023/03/github-copilot-icon.png
           url: https://github.com/features/copilot
