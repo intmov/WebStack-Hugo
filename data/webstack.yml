@@ -53,31 +53,31 @@
         - title: Claude Code
           logo: https://ai-bot.cn/wp-content/uploads/2023/03/anthropic-icon.png
           url: https://www.anthropic.com/claude-code
-          description: Anthropic出品，终端IDE，据说很强，把其他工具甩开一条街，没用过，国内不好注册
+          description: Anthropic出品，终端IDE，史上最强，国内不好注册，不过国内使用，Cluade Code的壳子+GLM 4.7也还不错。
         - title: Gemini CLI
           logo: https://ai-bot.cn/wp-content/uploads/2024/05/googel-gemini-app-icon.webp
           url: https://gemini.google.com/
-          description: Google出品，高仿Claude Code，基于Gemini模型，免费调用次数1天1000次，完全够用了。
+          description: Google出品，类似于Claude code的终端IDE，基于Gemini模型，每天有免费额度，但现在容易限频了。后来又出了Antigravity IDE 
         - title: Cursor
           logo: https://ai-bot.cn/wp-content/uploads/2024/08/cursor-logo.png
           url: https://cursor.sh/
           description: 初创公司，代码编辑器，AI-first，多行编辑功能非常不错（写文档也可以使用），月费20刀，学生限免
+        - title: Trae
+          logo: https://ai-bot.cn/wp-content/uploads/2025/02/trae-logo.png
+          url: https://www.trae.com.cn/
+          description: 字节跳动出品，独立AI编辑器，胜在免费，基本功能齐全，+Kimi模型够打
+        - title: Qoder(原通义灵码)
+          logo: https://ai-bot.cn/wp-content/uploads/2023/12/tongyi-lingma-icon-1.png
+          url: https://tongyi.aliyun.com/lingma
+          description: 阿里云出品，之前是作为IDE的插件，现在也可以独立使用，免费额度不多
         - title: Windsurf
           logo: https://ai-bot.cn/wp-content/uploads/2024/11/Windsurf-logo.png
           url: https://windsurf.dev/
-          description: 被OpenAI收购，代码编辑器，也具有多行编辑功能了，免费版有一定额度
+          description: 核心团队被google挖走，后来火速被收购，现在不看好了。
         - title: GitHub Copilot
           logo: https://ai-bot.cn/wp-content/uploads/2023/03/github-copilot-icon.png
           url: https://github.com/features/copilot
           description: 微软出品，VS Code内置，免费版有一些额度，多行编辑能力稍差
-        - title: Trae
-          logo: https://ai-bot.cn/wp-content/uploads/2025/02/trae-logo.png
-          url: https://www.trae.com.cn/
-          description: 字节跳动出品，独立AI编辑器，胜在免费，也支持多行编辑了，但是代码补全能力稍弱
-        - title: 通义灵码
-          logo: https://ai-bot.cn/wp-content/uploads/2023/12/tongyi-lingma-icon-1.png
-          url: https://tongyi.aliyun.com/lingma
-          description: 阿里云出品，之前是作为IDE的插件，现在也可以独立使用，免费使用
 
 - taxonomy: 通用工具
   icon: fas fa-toolbox fa-lg
